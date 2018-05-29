@@ -1,0 +1,11 @@
+D:\projects\CSharp\Test\YoutubeMUsidDownloaderAPI\YoutubeMusicDownloaderAPI\bin\Debug\netcoreapp2.0\YoutubeMusicDownloaderAPI.deps.json
+D:\projects\CSharp\Test\YoutubeMUsidDownloaderAPI\YoutubeMusicDownloaderAPI\bin\Debug\netcoreapp2.0\YoutubeMusicDownloaderAPI.runtimeconfig.json
+D:\projects\CSharp\Test\YoutubeMUsidDownloaderAPI\YoutubeMusicDownloaderAPI\bin\Debug\netcoreapp2.0\YoutubeMusicDownloaderAPI.runtimeconfig.dev.json
+D:\projects\CSharp\Test\YoutubeMUsidDownloaderAPI\YoutubeMusicDownloaderAPI\bin\Debug\netcoreapp2.0\YoutubeMusicDownloaderAPI.dll
+D:\projects\CSharp\Test\YoutubeMUsidDownloaderAPI\YoutubeMusicDownloaderAPI\bin\Debug\netcoreapp2.0\YoutubeMusicDownloaderAPI.pdb
+D:\projects\CSharp\Test\YoutubeMUsidDownloaderAPI\YoutubeMusicDownloaderAPI\obj\Debug\netcoreapp2.0\YoutubeMusicDownloaderAPI.csproj.CoreCompileInputs.cache
+D:\projects\CSharp\Test\YoutubeMUsidDownloaderAPI\YoutubeMusicDownloaderAPI\obj\Debug\netcoreapp2.0\YoutubeMusicDownloaderAPI.AssemblyInfoInputs.cache
+D:\projects\CSharp\Test\YoutubeMUsidDownloaderAPI\YoutubeMusicDownloaderAPI\obj\Debug\netcoreapp2.0\YoutubeMusicDownloaderAPI.AssemblyInfo.cs
+D:\projects\CSharp\Test\YoutubeMUsidDownloaderAPI\YoutubeMusicDownloaderAPI\obj\Debug\netcoreapp2.0\YoutubeMusicDownloaderAPI.dll
+D:\projects\CSharp\Test\YoutubeMUsidDownloaderAPI\YoutubeMusicDownloaderAPI\obj\Debug\netcoreapp2.0\YoutubeMusicDownloaderAPI.pdb
+D:\projects\CSharp\Test\YoutubeMUsidDownloaderAPI\YoutubeMusicDownloaderAPI\obj\Debug\netcoreapp2.0\YoutubeMusicDownloaderAPI.csprojAssemblyReference.cache

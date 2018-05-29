@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+
+  "name": "Getting started example",
+  "description": "This extension allows the user to change the background color of the current page.",
+  "version": "1.0",
+  "homepage_url": "http://localhost:64496", 
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "tabs",
+    "activeTab",
+    "storage",
+    "http://localhost:5000/",
+     "http://localhost:5000/api/Values/Auth" 
+  ]
+   
+}
